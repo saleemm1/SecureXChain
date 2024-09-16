@@ -19,9 +19,3 @@ This project is a security analyzer for cross-chain NFT marketplaces. It is desi
    npm install @avalanche-interchain-token-transfer
 
 
-Compile smart contracts:
-
-npx hardhat compile
-Deploy contracts to the Avalanche network:
-
-npx hardhat run --network avalanche scripts/deploy.js
