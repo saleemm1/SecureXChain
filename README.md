@@ -11,11 +11,6 @@ This project is a security analyzer for cross-chain NFT marketplaces. It is desi
 - Avalanche Network Setup
 
 
-## How to Use
 
-1. **Install dependencies:**
-   ```bash
-   npm install @openzeppelin/contracts
-   npm install @avalanche-interchain-token-transfer
 
 
